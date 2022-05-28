@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iAudit/static/css/main.18913380.css",
+    "main.js": "/iAudit/static/js/main.873e9194.js",
+    "index.html": "/iAudit/index.html",
+    "main.18913380.css.map": "/iAudit/static/css/main.18913380.css.map",
+    "main.873e9194.js.map": "/iAudit/static/js/main.873e9194.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18913380.css",
+    "static/js/main.873e9194.js"
+  ]
+}
